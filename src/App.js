@@ -29,7 +29,7 @@ function App() {
         max-query-length="-1"
         allow-feedback="all">
         <df-messenger-chat-bubble
-          chat-title="ZOLL Billing-Assistan">
+          chat-title="ZOLL Billing-Assistant">
         </df-messenger-chat-bubble>
       </df-messenger>
     </div>
